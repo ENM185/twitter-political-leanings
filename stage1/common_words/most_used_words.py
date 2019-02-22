@@ -42,6 +42,7 @@ for politician in filter(lambda x: x["party"]=="Democrat", politicians["senators
         for word in arr:
             democrat_counter[word] += 1
 
+#together, at least for now
 sum = republican_counter + democrat_counter
 for word in sum.most_common(1000):
     print("\"" + word[0] + "\"" + ",")
