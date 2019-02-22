@@ -2,99 +2,7 @@
     "senators": [
         {
             "party": "Democrat", 
-            "twitter-handle": "SenDougJones"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenTinaSmith"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "gillibrandny"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenJackyRosen"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenCortezMasto"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenKamalaHarris"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "RosenforNevada"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "CatherineForNV"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "VanHollenForMD"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenBooker"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "chuckschumer"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenBrianSchatz"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "EdMarkey"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "MartinHeinrich"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorSinema"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorBaldwin"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenDuckworth"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenWarren"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorHassan"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SheldonforRI"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorTester"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenJackReed"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenFeinstein"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "MarkWarnerVA"
+            "twitter-handle": "BenCardinforMD"
         }, 
         {
             "party": "Democrat", 
@@ -102,7 +10,27 @@
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "TomCarperforDE"
+            "twitter-handle": "Bob_Casey"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "CatherineForNV"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "ChrisCoons"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "ChrisMurphyCT"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "ChrisVanHollen"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "CoryBooker"
         }, 
         {
             "party": "Democrat", 
@@ -110,19 +38,59 @@
         }, 
         {
             "party": "Democrat", 
+            "twitter-handle": "DickDurbin"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "DougJones"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "EdMarkey"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "JeanneShaheen"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "JeffMerkley"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "JoeManchinWV"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "KamalaHarris"
+        }, 
+        {
+            "party": "Democrat", 
             "twitter-handle": "Maggie_Hassan"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "ewarren"
+            "twitter-handle": "MariaCantwell"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "TammyforIL"
+            "twitter-handle": "MarkWarner"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "DickDurbin"
+            "twitter-handle": "MarkWarnerVA"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "MartinHeinrich"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "MichaelBennet"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "MurrayCampaign"
         }, 
         {
             "party": "Democrat", 
@@ -130,15 +98,119 @@
         }, 
         {
             "party": "Democrat", 
+            "twitter-handle": "RonWyden"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "RosenforNevada"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenAmyKlobuchar"
+        }, 
+        {
+            "party": "Democrat", 
             "twitter-handle": "SenBlumenthal"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "BenCardinforMD"
+            "twitter-handle": "SenBobCasey"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "RonWyden"
+            "twitter-handle": "SenBooker"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenBrianSchatz"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenCortezMasto"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenDougJones"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenDuckworth"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenFeinstein"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenGaryPeters"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenGillibrand"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenJackReed"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenJackyRosen"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenJeffMerkley"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenKamalaHarris"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenMarkey"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenSchumer"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenSherrodBrown"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenStabenow"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenTinaSmith"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenWarren"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenWhitehouse"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "Sen_JoeManchin"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenatorBaldwin"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenatorBennet"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenatorCantwell"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenatorCardin"
         }, 
         {
             "party": "Democrat", 
@@ -150,151 +222,11 @@
         }, 
         {
             "party": "Democrat", 
+            "twitter-handle": "SenatorHassan"
+        }, 
+        {
+            "party": "Democrat", 
             "twitter-handle": "SenatorLeahy"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenWhitehouse"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "DougJones"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenGaryPeters"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "Sen_JoeManchin"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorBennet"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "JeffMerkley"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "TeamHeinrich"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "timkaine"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenBobCasey"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "mazieforhawaii"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "MurrayCampaign"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "ChrisMurphyCT"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "WydenForOregon"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorCantwell"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "JoeManchinWV"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorShaheen"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorCardin"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "Bob_Casey"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "maziehirono"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "tammybaldwin"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenStabenow"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenGillibrand"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenatorTomUdall"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "brianschatz"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "TinaSmithMN"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "MichaelBennet"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenSherrodBrown"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "MariaCantwell"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "amyklobuchar"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "KamalaHarris"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenJeffMerkley"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SherrodBrown"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenAmyKlobuchar"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "SenMarkey"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "kyrstensinema"
-        }, 
-        {
-            "party": "Democrat", 
-            "twitter-handle": "stabenow"
         }, 
         {
             "party": "Democrat", 
@@ -302,11 +234,71 @@
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "ChrisVanHollen"
+            "twitter-handle": "SenatorShaheen"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "SenSchumer"
+            "twitter-handle": "SenatorSinema"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenatorTester"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SenatorTomUdall"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SheldonforRI"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "SherrodBrown"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "TammyforIL"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "TeamHeinrich"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "TinaSmithMN"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "TomCarperforDE"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "VanHollenForMD"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "WydenForOregon"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "amyklobuchar"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "brianschatz"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "chuckschumer"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "ewarren"
+        }, 
+        {
+            "party": "Democrat", 
+            "twitter-handle": "gillibrandny"
         }, 
         {
             "party": "Democrat", 
@@ -314,79 +306,27 @@
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "CoryBooker"
+            "twitter-handle": "kyrstensinema"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "ChrisCoons"
+            "twitter-handle": "mazieforhawaii"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "JeanneShaheen"
+            "twitter-handle": "maziehirono"
         }, 
         {
             "party": "Democrat", 
-            "twitter-handle": "MarkWarner"
+            "twitter-handle": "stabenow"
         }, 
         {
-            "party": "Republican", 
-            "twitter-handle": "SenBillCassidy"
+            "party": "Democrat", 
+            "twitter-handle": "tammybaldwin"
         }, 
         {
-            "party": "Republican", 
-            "twitter-handle": "SenHydeSmith"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "TeamHawley"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenJohnKennedy"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenMcSallyAZ"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenThomTillis"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenSasse"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenatorRounds"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenDanSullivan"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "sendavidperdue"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenJoniErnst"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "robportman"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "HawleyMO"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "braun4indiana"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "TeamCornyn"
+            "party": "Democrat", 
+            "twitter-handle": "timkaine"
         }, 
         {
             "party": "Republican", 
@@ -394,155 +334,7 @@
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "Perduesenate"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "joniernst"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "senatemajldr"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenatorRisch"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenTedCruz"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenatorFischer"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenKevinCramer"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenTomCotton"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "MikeCrapo"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "PatRoberts"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "MarthaMcSally"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "LindseyGrahamSC"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "RoyBluntMO"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenJohnHoeven"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "Team_Mitch"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "TomCottonAR"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "DebFischerNE"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "ScottforFlorida"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenJohnThune"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenatorEnzi"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "MarshaBlackburn"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenatorWicker"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "cindyhydesmith"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "JohnnyIsakson"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenCoryGardner"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenToddYoung"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenRonJohnson"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenatorLankford"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenToomey"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenatorTimScott"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "RandPaul"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "BurrForSenate"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenJohnBarrasso"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenCapito"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "CapitoforWV"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "LisaForSenate"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "RonJohnsonWI"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenRickScott"
+            "twitter-handle": "BillCassidy"
         }, 
         {
             "party": "Republican", 
@@ -550,71 +342,15 @@
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "SenMikeLee"
+            "twitter-handle": "BurrForSenate"
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "votetimscott"
+            "twitter-handle": "CapitoforWV"
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "SenatorIsakson"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenAlexander"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "VoteMarsha"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "ToddYoungIN"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "BillCassidy"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "MittRomney"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "DrRandPaul"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "kevincramer"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "johnthune"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "PatToomey"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "tedcruz"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "ThomTillis"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "LamarAlexander"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "RoyBlunt"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "SenatorBurr"
+            "twitter-handle": "ChuckGrassley"
         }, 
         {
             "party": "Republican", 
@@ -622,15 +358,283 @@
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "SenatorCollins"
+            "twitter-handle": "DebFischerNE"
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "senrobportman"
+            "twitter-handle": "DrRandPaul"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "GrahamBlog"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "HawleyMO"
         }, 
         {
             "party": "Republican", 
             "twitter-handle": "JerryMoran"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "JimInhofe"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "JohnBoozman"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "JohnCornyn"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "JohnnyIsakson"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "LamarAlexander"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "LindseyGrahamSC"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "LisaForSenate"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "MarshaBlackburn"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "MarthaMcSally"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "MikeCrapo"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "MittRomney"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "PatRoberts"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "PatToomey"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "Perduesenate"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "RandPaul"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "RogerWicker"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "RonJohnsonWI"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "RoyBlunt"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "RoyBluntMO"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "ScottforFlorida"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenAlexander"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenBillCassidy"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenCapito"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenCoryGardner"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenDanSullivan"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenHydeSmith"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenJohnBarrasso"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenJohnHoeven"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenJohnKennedy"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenJohnThune"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenJoniErnst"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenKevinCramer"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenMcSallyAZ"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenMikeLee"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenRickScott"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenRonJohnson"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenSasse"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenTedCruz"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenThomTillis"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenToddYoung"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenTomCotton"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenToomey"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorBurr"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorCollins"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorEnzi"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorFischer"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorIsakson"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorLankford"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorRisch"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorRounds"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorTimScott"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SenatorWicker"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "SteveDaines"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "TeamCornyn"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "TeamHawley"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "Team_Mitch"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "ThomTillis"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "ToddYoungIN"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "TomCottonAR"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "VoteMarsha"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "braun4indiana"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "cindyhydesmith"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "johnthune"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "joniernst"
+        }, 
+        {
+            "party": "Republican", 
+            "twitter-handle": "kevincramer"
         }, 
         {
             "party": "Republican", 
@@ -642,31 +646,27 @@
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "GrahamBlog"
+            "twitter-handle": "robportman"
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "JohnCornyn"
+            "twitter-handle": "senatemajldr"
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "SteveDaines"
+            "twitter-handle": "sendavidperdue"
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "RogerWicker"
+            "twitter-handle": "senrobportman"
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "ChuckGrassley"
+            "twitter-handle": "tedcruz"
         }, 
         {
             "party": "Republican", 
-            "twitter-handle": "JimInhofe"
-        }, 
-        {
-            "party": "Republican", 
-            "twitter-handle": "JohnBoozman"
+            "twitter-handle": "votetimscott"
         }
     ], 
     "representatives": []
