@@ -1,4 +1,15 @@
-# Simple Neural Network
+# Twitter Political Leanings <!-- omit in toc -->
+
+## Contents <!-- omit in toc -->
+
+- [Stages of Construction](#stages-of-construction)
+  - [Stage 1 - Simple Neural Network](#stage-1---simple-neural-network)
+
+## Stages of Construction
+
+Throughout the construction of the project, mutliple "stages" of neural networks and datasets were created, ranging from simple to more complex designs in order to increase accuracy. The stages are outlined as follows:
+
+### Stage 1 - Simple Neural Network
 
  - Stored in `simple` branch
  - First, a list of senators was created on Twitter
