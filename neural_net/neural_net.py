@@ -23,12 +23,15 @@ X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.33, random
 model = Sequential()
 
 model.add(Dense(982, activation='relu'))
-model.add(Dense(80, activation='relu'))
+model.add(Dense(492, activation='relu'))
 model.add(Dense(2, activation='sigmoid'))
 
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-model.fit(X_train, y_train, epochs=20, batch_size=1, verbose=1)
+model.fit(X_train, y_train, epochs=20, batch_size=5, verbose=1)
+
+score = model.evaluate(X_test, y_test)
+print(score)
 
 model.save('model.h5')
 del(model)

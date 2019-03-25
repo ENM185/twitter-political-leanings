@@ -27,3 +27,9 @@ Throughout the construction of the project, mutliple "stages" of neural networks
      - Same order as `common_words/words.json`
    - Arrays that contained 5+ of the common words were stored in `dataset/data.json`
      - Classified under `Republicans` or `Democrats` (based on user's party)
+ - Neural Net
+   - Feed forward, 1 hidden layer
+   - generic settings (binary crossentropy and adam)
+   - Results on test data:
+     - Loss: 2.547445950237973
+     - Accuracy: 0.6910408433561112
