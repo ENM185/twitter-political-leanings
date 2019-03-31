@@ -3,28 +3,29 @@ import keras
 import json
 import numpy as np
 from keras.models import load_model
+import pickle
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
+import re
 
-with open(os.path.dirname(__file__)+"/../common_words/words.json") as common_words_file:
-    common_words = json.load(common_words_file)
+with open(os.path.dirname(__file__) + 'tokenizer.pickle', 'rb') as handle:
+    tokenizer = pickle.load(handle)
 
 model = load_model('model.h5')
 
-text = "" #From a tweet
-arr = [[]]
+def clean(text) :
+    text = text.lower()
+    text = re.sub(r"[^A-Za-z0-9^!./'=\s]", "", text)
+    return text
 
-for common_word in common_words:
-    if common_word in text.lower().split():
-        arr[0].append(1)
-    else:
-        arr[0].append(0)
+text = [clean("")] #From a tweet
 
-pred_arr = np.array(arr)
+sequence = tokenizer.texts_to_sequences(text)
+input = pad_sequences(sequence, maxlen=31)
 
-if sum(arr[0]) >= 5:
-    pred = model.predict([pred_arr])
-    if pred[0][0] > pred[0][1]:
-        print("Republican")
-    else:
-        print("Democrat")
+pred = model.predict(input)[0][0]
+
+if pred > .5 :
+    print(str(pred*100) + "% Republican")
 else:
-    print("Not large enough")
+    print(str((1-pred)*100) + "% Democrat")
