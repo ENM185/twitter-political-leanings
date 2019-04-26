@@ -26,7 +26,7 @@ X_train, X_test, y_train, y_test = train_test_split(data, parties, test_size=0.3
 model = Sequential()
 
 model.add(Embedding(20000, 100, input_length=31))
-model.add(LSTM(100, dropout=0.2, recurrent_dropout=0.2))
+model.add(LSTM(100, dropout=0.2, recurrent_dropout=0.1))
 model.add(Dense(1, activation='sigmoid'))
 
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])

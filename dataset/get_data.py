@@ -19,12 +19,22 @@ api = tweepy.API(auth)
 with open(os.path.dirname(__file__)+"/../politicians/politicians.json") as politicians_file:
     politicians = json.load(politicians_file)
 
+with open(os.path.dirname(__file__)+"/../political_words/words.json") as common_words_file:
+    political_words = json.load(common_words_file)
+
 def clean(text) :
     text = text.lower()
     text = re.sub(r"[^A-Za-z0-9^!./'=\s]", "", text)
     return text
 
-with open(os.path.dirname(__file__) + "/data1.csv", "w") as dataFile:
+def count(s) :
+    c = 0
+    for word in s.split():
+        if word in political_words:
+            c += 1
+    return c
+
+with open(os.path.dirname(__file__) + "/data.csv", "w") as dataFile:
     dataWriter = csv.writer(dataFile)
 
     for politician in politicians["senators"]:
@@ -32,5 +42,6 @@ with open(os.path.dirname(__file__) + "/data1.csv", "w") as dataFile:
         tweets = api.user_timeline(id=politician["twitter-handle"], count=100)
         for tweet in tweets:
             text = clean(tweet.text)
-            arr = [text, politician["party"], tweet.url]
-            dataWriter.writerow(arr)
+            if count(text) >= 3:
+                arr = [text, politician["party"]]
+                dataWriter.writerow(arr)
