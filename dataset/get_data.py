@@ -42,6 +42,6 @@ with open(os.path.dirname(__file__) + "/data.csv", "w") as dataFile:
         tweets = api.user_timeline(id=politician["twitter-handle"], count=100)
         for tweet in tweets:
             text = clean(tweet.text)
-            if count(text) >= 3:
+            if count(text) >= 1:
                 arr = [text, politician["party"]]
                 dataWriter.writerow(arr)

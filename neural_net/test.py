@@ -8,7 +8,7 @@ from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 import re
 
-with open(os.path.dirname(__file__) + 'tokenizer.pickle', 'rb') as handle:
+with open(os.path.dirname(__file__) + '/tokenizer.pickle', 'rb') as handle:
     tokenizer = pickle.load(handle)
 
 model = load_model('model.h5')

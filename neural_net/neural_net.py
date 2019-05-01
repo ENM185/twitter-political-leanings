@@ -6,7 +6,7 @@ import keras
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import Sequential
-from keras.layers import Dense, Activation, LSTM, Embedding
+from keras.layers import Dense, Activation, LSTM, Embedding, Conv1D, Dropout
 from sklearn.model_selection import train_test_split
 import pickle
 
@@ -26,13 +26,15 @@ X_train, X_test, y_train, y_test = train_test_split(data, parties, test_size=0.3
 model = Sequential()
 
 model.add(Embedding(20000, 100, input_length=31))
-model.add(LSTM(100, dropout=0.2, recurrent_dropout=0.1))
+model.add(Dropout(.2))
+model.add(Conv1D(128, 5, activation='relu'))
+model.add(LSTM(100, dropout=0.2, recurrent_dropout=0.2))
 model.add(Dense(1, activation='sigmoid'))
 
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 
 
-model.fit(X_train, y_train, epochs=10, batch_size=1, verbose=1)
+model.fit(X_train, y_train, epochs=10, batch_size=128, verbose=1)
 
 score = model.evaluate(X_test, y_test)
 print(score)
